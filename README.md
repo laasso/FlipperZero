@@ -1,6 +1,6 @@
 # FlipperZero Payloads Repository
 
-![FlipperZero Logo](images/flipperzero_logo.png)
+![FlipperZero Logo](images/flipperzero.jpg)
 
 Welcome to the FlipperZero Payloads Repository! This repository contains a collection of payloads designed to be exported and executed on the Flipper Zero device across various operating systems and platforms.
 
@@ -154,4 +154,3 @@ Contributions to this repository are welcome! Here are some ways you can contrib
 
 Feel free to explore the repository and contribute to make Flipper Zero even more powerful and versatile!
 
-![FlipperZero in Action](images/flipperzero_in_action.png)
