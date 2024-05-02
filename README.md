@@ -154,11 +154,7 @@ Contributions to this repository are welcome! Here are some ways you can contrib
 
 ## Special Thanks
 
-A big thank you to [aleff-github](https://github.com/aleff-github) for sharing their payloads with us!
-
-![Aleff's Profile Photo](https://avatars.githubusercontent.com/u/60389659?v=4)
-
-We appreciate Aleff's generosity in sharing their payloads with the community. Their contributions have helped enhance our repository and provide more value to Flipper Zero users.
+A big thank you to [aleff-github](https://github.com/aleff-github) for being the creator of most of the payloads!
 
 Feel free to explore the repository and contribute to make Flipper Zero even more powerful and versatile!
 
