@@ -12,6 +12,8 @@ Flipper Zero is a versatile multi-tool device designed for security professional
 
 For an enhanced Flipper Zero experience, we recommend using Xtreme-Firmware. Xtreme-Firmware is a custom firmware for Flipper Zero that unlocks additional features and optimizations, providing users with greater flexibility and control over their devices. You can find more information and download the latest version of Xtreme-Firmware from the [official website](https://flipper-xtre.me/update/).
 
+![FlipperZero Logo](images/xtreme_custom-firmware-asset.png)
+
 ## Repository Summary
 
 This repository is organized into folders based on different payload categories and supported platforms. Here's a brief summary:
